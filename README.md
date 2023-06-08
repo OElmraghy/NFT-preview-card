@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-(images/Screenshot.png)
+![](images/Screenshot.png)
 
 ### Links
 
-- Solution URL: (https://github.com/OElmraghy/Product-preview-card)
-- Live Site URL: (https://oelmraghy.github.io/Product-preview-card/)
+- Solution URL: (https://github.com/OElmraghy/NFT-preview-card)
+- Live Site URL: (https://oelmraghy.github.io/NFT-preview-card/)
 
 ## My process
 
