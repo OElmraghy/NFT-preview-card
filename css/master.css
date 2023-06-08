@@ -20,6 +20,7 @@ body {
   font-family: "Outfit", sans-serif;
   background-color: var(--very-dark-blue-main-bg);
   font-weight: 300;
+  line-height: 1.5;
 }
 
 main {
